@@ -14,3 +14,7 @@ https://supercollider.github.io/
 -https://foxdot.org/installation/
 
 -https://github.com/munshkr/flok#connect-repls-to-flok
+
+
+for visuals
+https://gibber.cc/
