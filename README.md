@@ -10,3 +10,5 @@ wip This is a place to colab with the world. A place to get out the confort zone
 -http://tidalcycles.org/docs/getting-started/tidal_start/
 
 -https://foxdot.org/installation/
+
+-https://github.com/munshkr/flok#connect-repls-to-flok
