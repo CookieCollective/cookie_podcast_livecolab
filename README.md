@@ -3,7 +3,7 @@ wip This is a place to colab with the world. A place to get out the confort zone
 
 
 
-##instalation##
+# instalation
 
 https://atom.io/
 http://tidalcycles.org/docs/getting-started/tidal_start/
