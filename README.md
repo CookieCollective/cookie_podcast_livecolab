@@ -16,5 +16,12 @@ https://supercollider.github.io/
 -https://github.com/munshkr/flok#connect-repls-to-flok
 
 
+*server name style :
+ 
+-https://flok.clic.cf/s/passive-coffee-mse-MTk4NmZj?layout=tidal
+
+
 for visuals
 https://gibber.cc/
+
+
