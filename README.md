@@ -5,6 +5,8 @@ wip This is a place to colab with the world. A place to get out the confort zone
 
 # instalation
 
+https://supercollider.github.io/
+
 -https://atom.io/
 
 -http://tidalcycles.org/docs/getting-started/tidal_start/
